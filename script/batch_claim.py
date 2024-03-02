@@ -239,7 +239,7 @@ if __name__ == '__main__':
     单进程性能会有瓶颈,大概一分钟能领1000左右,自行套多进程或复制多开
     """
     # 验证平台key
-    client_key = '68dd9e0622b8c789918be0f79efb02f74569119535458'
+    client_key = '638'
     # 目前支持使用yescaptcha 2captcha
     solver_provider = 'yescaptcha'
     # 代理获取链接 设置一次提取一个 返回格式为text
